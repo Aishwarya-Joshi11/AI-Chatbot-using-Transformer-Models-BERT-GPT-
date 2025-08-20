@@ -95,3 +95,8 @@ This project is currently **exploratory**. Contributions, suggestions, and feedb
 This plan is **tentative** and may evolve as new findings, technologies, or challenges arise.
 
 ---
+
+## 👤 Author
+**Aishwarya Joshi**  
+📍 Oregon State University (MS CS) | Software Engineer (AI/ML, Cloud)  
+[LinkedIn](https://www.linkedin.com/in/aishwarya-j-822999188) | [GitHub](https://github.com/Aishwarya-Joshi11)
