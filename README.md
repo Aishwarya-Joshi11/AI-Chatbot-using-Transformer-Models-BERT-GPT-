@@ -43,23 +43,31 @@ The long-term goal is to build a system that is not only **conversationally inte
 
 ---
 
-## 📚 Reference Research Papers (IEEE & Others)
-Here are some **well-known research papers** I am planning to refer while implementing this project:
+## 📚 Reference Research Papers
 
-1. **Attention Is All You Need (Vaswani et al., 2017)**  
-   *Introduced the Transformer architecture.*  
+Here are some **well-known research papers** I am planning to refer to while implementing this project:
 
-2. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2019)**  
-   *Groundbreaking work on bidirectional transformers for NLP tasks.*  
+1. **Attention Is All You Need** — Vaswani et al., NeurIPS 2017.  
+   *Introduced the Transformer architecture (self-attention; no recurrence).*  
+   - Official PDF: [papers.nips.cc](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)  
+   - Preprint: [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)  
 
-3. **Language Models are Few-Shot Learners (Brown et al., 2020, GPT-3)**  
-   *Showed the power of large-scale language models.*  
+2. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** — Devlin et al., NAACL 2019.  
+   *Groundbreaking work on bidirectional Transformers for NLP tasks.*  
+   - Preprint: [arXiv:1810.04805](https://arxiv.org/abs/1810.04805)  
 
-4. **Dialog State Tracking with BERT as Context Encoder (Wu et al., 2020, IEEE/ACL)**  
-   *Applied BERT for dialogue systems.*  
+3. **Language Models are Few-Shot Learners (GPT-3)** — Brown et al., NeurIPS 2020.  
+   *Showed the power of large-scale language models for few-shot tasks.*  
+   - Preprint: [arXiv:2005.14165](https://arxiv.org/abs/2005.14165)  
 
-5. **A Survey on Chatbot Implementation in Customer Service Industry through Deep Neural Networks (IEEE, 2021)**  
-   *Survey of chatbot implementations in industry.* 
+4. **TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue** — Wu et al., EMNLP 2020.  
+   *Dialogue-domain pretraining that improves intent recognition, DST, and response selection.*  
+   - Preprint: [arXiv:2004.06871](https://arxiv.org/abs/2004.06871)  
+
+5. **A Survey on Chatbot Implementation in Customer Service Industry through Deep Neural Networks** — Nuruzzaman, Hussain (IEEE ICEBE 2018).  
+   *Survey of chatbot implementations in the customer service domain.*  
+   - IEEE Xplore: [10.1109/ICEBE.2018.00022](https://ieeexplore.ieee.org/document/8533306)  
+
 
 ---
 
