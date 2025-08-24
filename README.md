@@ -48,23 +48,18 @@ Here are some **well-known research papers** I am planning to refer while implem
 
 1. **Attention Is All You Need (Vaswani et al., 2017)**  
    *Introduced the Transformer architecture.*  
-   [Link](https://ieeexplore.ieee.org/document/8499605)
 
 2. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2019)**  
    *Groundbreaking work on bidirectional transformers for NLP tasks.*  
-   [Link](https://ieeexplore.ieee.org/document/8828009)
 
 3. **Language Models are Few-Shot Learners (Brown et al., 2020, GPT-3)**  
    *Showed the power of large-scale language models.*  
-   [Link](https://arxiv.org/abs/2005.14165)
 
 4. **Dialog State Tracking with BERT as Context Encoder (Wu et al., 2020, IEEE/ACL)**  
    *Applied BERT for dialogue systems.*  
-   [Link](https://ieeexplore.ieee.org/document/9259800)
 
 5. **A Survey on Chatbot Implementation in Customer Service Industry through Deep Neural Networks (IEEE, 2021)**  
-   *Survey of chatbot implementations in industry.*  
-   [Link](https://ieeexplore.ieee.org/document/9413665)
+   *Survey of chatbot implementations in industry.* 
 
 ---
 
