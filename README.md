@@ -62,11 +62,7 @@ Here are some **well-known research papers** I am planning to refer to while imp
 
 4. **TOD-BERT: Pre-trained Natural Language Understanding for Task-Oriented Dialogue** — Wu et al., EMNLP 2020.  
    *Dialogue-domain pretraining that improves intent recognition, DST, and response selection.*  
-   - Preprint: [arXiv:2004.06871](https://arxiv.org/abs/2004.06871)  
-
-5. **A Survey on Chatbot Implementation in Customer Service Industry through Deep Neural Networks** — Nuruzzaman, Hussain (IEEE ICEBE 2018).  
-   *Survey of chatbot implementations in the customer service domain.*  
-   - IEEE Xplore: [10.1109/ICEBE.2018.00022](https://ieeexplore.ieee.org/document/8533306)  
+   - Preprint: [arXiv:2004.06871](https://arxiv.org/abs/2004.06871)
 
 
 ---
